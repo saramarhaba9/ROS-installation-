@@ -31,3 +31,10 @@ Next, open the terminal and excute the following command:
 
             10- rosdep update
 
+
+In the final if you need to check if the ROS installed you can do so using 
+            
+            roscore
+            
+            
+![ros](https://user-images.githubusercontent.com/56765097/181202292-2b3fe9be-596d-4ca2-b6ec-723ca7688454.png)
